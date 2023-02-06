@@ -1,0 +1,147 @@
+@import url(reset.css);
+
+
+/* general header */
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a {
+    color: var(--cinza);
+}
+
+a:hover {
+    color: #00754a;
+}
+
+.logo {
+    display: flex;
+    width: 50px;
+    height: 50px;
+    margin: 1px 78px 0 65px;
+}
+
+
+
+/* botões */
+
+.container__button {
+    display: flex;
+    gap: 24px;
+    align-items: center;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-weight: bolder;
+}
+
+.container__button2 {
+    margin-right: 12vw;
+}
+
+.menu, .rewards, .gift__cards {
+    padding: 2.3rem 0 2.3rem 0;
+    margin-top: 4px;
+    font-size: 14.5px;
+    letter-spacing: 1.3px;
+    transform: scale(1.1);
+    transition: all 0.1s;
+}
+
+.menu:hover, .rewards:hover, .gift__cards:hover {
+    box-shadow: inset 0 -6px #00754a;
+}
+
+.button__login {
+    border: 1px solid black;
+    color: var(--cinza);
+    border-radius: 20px;
+    padding: 6px 16px;
+    font-weight: 600;
+    font-size: 14px;
+    background-color: transparent;
+    text-transform: none;
+    letter-spacing: normal;
+}
+
+.button__login:hover {
+    color: var(--cinza);
+    background-color: #F0F0F0;
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+    transform: scale(1.1);
+}
+
+.login:hover {
+    color: black;
+}
+
+
+.button__cadastro > a {
+    padding: 6px 16px;
+    margin-left: -8px;
+    font-weight: 600;
+    font-size: 14px;
+    border: 1px solid black;
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+    text-transform: none;
+    letter-spacing: normal;
+}
+
+.button__cadastro:hover {
+    color: white;
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: all .2s ease-in-out;
+}
+
+
+
+/* map */
+
+.map {
+    display: flex;
+    margin: -8px 20px 0 0;
+    font-weight: 600;
+    background-color: transparent;
+    font-size: 15px;
+    text-transform: none;
+    letter-spacing: normal;
+}
+
+.icon__map {
+    width: 19px;
+    padding-right: 9px;
+    transform: translateY(4px);
+}
+
+.map:hover {
+    color: #00754a;
+}
+
+
+/* banner */
+
+.banner {
+    display: flex;
+    position: sticky;
+    top: .1px;
+    background-color: var(--verde__escuro);
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 4.9px;
+    padding: 14px;
+}
+
+div.banner > p {
+    position: relative;
+    left: 200px;
+}
