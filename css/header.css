@@ -118,6 +118,7 @@ a:hover {
     width: 19px;
     padding-right: 9px;
     transform: translateY(4px);
+    opacity: 87%;
 }
 
 .map:hover {
