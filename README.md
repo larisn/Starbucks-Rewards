@@ -1,4 +1,4 @@
-# Starbucks-Rewards
+# starbucks rewards recreation
 ### Recriando a página do Starbucks Rewards
 ![Versão Desktop](https://github.com/larisn/Starbucks-Rewards/blob/main/imagens/starbucks-original.png)<br>
 
