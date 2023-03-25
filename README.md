@@ -7,7 +7,7 @@
 ## ✨ Sobre
 
 > É meu penúltimo projeto antes de iniciar os estudos em JS. 
-Iniciei com objetivo de treinar posicionamento e alinhamento de itens, com certeza tem erros e tenho muito o que melhorar. Tentei chegar o mais próximo possível do site original visualmente, e ainda estou estudando mais sobre media queries para trabalhar na versão responsiva.
+Iniciei com objetivo de treinar posicionamento e alinhamento de itens, com certeza tem erros e tenho muito o que melhorar. Tentei chegar o mais próximo possível do site original visualmente e ainda estou estudando mais sobre media queries para trabalhar na versão responsiva.
 <br>
 
 
