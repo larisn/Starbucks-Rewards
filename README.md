@@ -2,7 +2,7 @@
   <br> <img src="imagens/logo.png" width="40px"> <br> Starbucks Rewards
 </h1>
 
-![Preview](https://github.com/larisn/starbucks-rewards-recreation/blob/main/imagens/Screenshot_1.png)
+![Preview](https://github.com/larisn/starbucks-rewards-recreation/blob/main/imagens/preview.png)
 
 ## ✨ Sobre
 
