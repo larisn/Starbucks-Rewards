@@ -5,6 +5,7 @@
     list-style: none;
     border: 0;
     text-decoration: none;
+<<<<<<< HEAD
 }
 
 ::-webkit-scrollbar {
@@ -19,4 +20,6 @@
 ::-webkit-scrollbar-thumb {
     background-color: #6e9286;
     border-radius: 5px;
+=======
+>>>>>>> e2f773f4819e1c5a36cba0297ca3d745dfddc1e0
 }
